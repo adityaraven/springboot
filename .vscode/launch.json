@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-FirstappvsApplication<firstappvs>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.aditya.firstappvs.FirstappvsApplication",
+            "projectName": "firstappvs",
+            "args": ""
+        }
+    ]
+}
